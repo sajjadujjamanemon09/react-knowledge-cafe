@@ -4,7 +4,7 @@
       "cover": "https://i.ibb.co/C6Kr2MC/top-view-workspace-with-laptop-cup-tea.jpg",
       "title": "The Art of Creative Writing",
       "author": "John Doe",
-      "author_img": "https://example.com/author1.jpg",
+      "author_img": "https://i.ibb.co/55HfSCh/moritz-mentges-5-Ml-BMYDs-GBY-unsplash.jpg",
       "posted_date": "2023-09-11",
       "reading_time": 12,
       "hashtags": ["writing", "creativity"]
@@ -14,7 +14,7 @@
       "cover": "https://i.ibb.co/YyMZqRp/5121255.jpg",
       "title": "Discovering Hidden Gems: Travel Adventures",
       "author": "Jane Smith",
-      "author_img": "https://example.com/author2.jpg",
+      "author_img": "https://i.ibb.co/55HfSCh/moritz-mentges-5-Ml-BMYDs-GBY-unsplash.jpg",
       "posted_date": "2023-09-10",
       "reading_time": 9,
       "hashtags": ["travel", "adventure"]
@@ -24,7 +24,7 @@
       "cover": "https://i.ibb.co/rpZjKD2/front-view-stacked-books-ladders-education-day.jpg",
       "title": "The Science of Cooking: Culinary Wonders",
       "author": "Chef Michael Johnson",
-      "author_img": "https://example.com/author3.jpg",
+      "author_img": "https://i.ibb.co/55HfSCh/moritz-mentges-5-Ml-BMYDs-GBY-unsplash.jpg",
       "posted_date": "2023-09-09",
       "reading_time": 15,
       "hashtags": ["cooking", "science"]
@@ -34,20 +34,10 @@
       "cover": "https://i.ibb.co/d0KPyd2/4471706.jpg",
       "title": "Tech Trends in 2023: A Comprehensive Overview",
       "author": "Sarah Brown",
-      "author_img": "https://example.com/author4.jpg",
+      "author_img": "https://i.ibb.co/55HfSCh/moritz-mentges-5-Ml-BMYDs-GBY-unsplash.jpg",
       "posted_date": "2023-09-08",
       "reading_time": 10,
       "hashtags": ["technology", "trends"]
-    },
-    {
-      "id": 5,
-      "cover": "https://i.ibb.co/TRPt2F4/elevated-view-coffee-cup-spiral-notepad-eyeglasses-laptop-mouse-blue-backdrop.jpg",
-      "title": "Healthy Living: Tips for a Balanced Life",
-      "author": "Dr. Emily Wilson",
-      "author_img": "https://example.com/author5.jpg",
-      "posted_date": "2023-09-07",
-      "reading_time": 7,
-      "hashtags": ["health", "wellness"]
     }
   ]
   
